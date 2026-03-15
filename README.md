@@ -28,8 +28,5 @@ I am learning coding at a **beginner level for experience and exposure**, experi
 I aim to continue exploring coding at a basic level while focusing on my core interests in **business, strategy, and product management**, using this knowledge to better understand technology-driven products.
 
 
-# PROJECTS 
-# 1] initial-P
-First git project.A simple calculator.
-<br>
+
 Author - Divya Singh Baghel 
